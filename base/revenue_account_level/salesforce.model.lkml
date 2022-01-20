@@ -1,6 +1,6 @@
 # preliminaries #
 
-connection: "salesforce"
+connection: "fivetran"
 
 include: "*.view"
 
